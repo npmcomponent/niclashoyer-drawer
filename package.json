@@ -1,0 +1,14 @@
+{
+  "name": "niclashoyer-drawer",
+  "description": "Drawer navigation component. Supports vertical or horizontal drawers.",
+  "version": "0.0.1-1",
+  "keywords": [],
+  "main": "index.js",
+  "styles": [
+    "drawer.css"
+  ],
+  "dependencies": {
+    "component-css": "git://github.com/npmcomponent/component-css.git"
+  },
+  "license": "MIT"
+}

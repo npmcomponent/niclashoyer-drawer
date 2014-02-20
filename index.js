@@ -2,7 +2,7 @@
 (function() {
   var Drawer, addDrawerStyles, css;
 
-  css = require('css');
+  css = require('component-css');
 
   addDrawerStyles = function(drawer, direction) {
     var styles;
